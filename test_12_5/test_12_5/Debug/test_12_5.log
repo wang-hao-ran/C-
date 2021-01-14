@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/12/5 23:15:32。
+     1>项目“D:\代码\VS代码\test_12_5\test_12_5\test_12_5.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>d:\代码\vs代码\test_12_5\test_12_5\test.c(5): error C2001: 常量中有换行符
+     1>d:\代码\vs代码\test_12_5\test_12_5\test.c(9): error C2296: “*”: 非法，左操作数包含“char [8]”类型
+     1>d:\代码\vs代码\test_12_5\test_12_5\test.c(9): error C2297: “*”: 非法，右操作数包含“char *”类型
+     1>已完成生成项目“D:\代码\VS代码\test_12_5\test_12_5\test_12_5.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.13
